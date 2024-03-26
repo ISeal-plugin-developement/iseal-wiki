@@ -16,3 +16,7 @@
     * [📝 Cooldown Config](fundamentals/getting-set-up/configuration/cooldown-config.md)
     * [📝 Active Gems Config](fundamentals/getting-set-up/configuration/active-gems-config.md)
   * [📝 Permissions](fundamentals/getting-set-up/permissions.md)
+
+***
+
+* [❓ Faq](faq.md)
