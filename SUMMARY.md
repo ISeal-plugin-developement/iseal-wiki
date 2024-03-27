@@ -12,10 +12,7 @@
 * [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
   * [📝 Configuration](fundamentals/getting-set-up/configuration/README.md)
     * [📝 General Config](fundamentals/getting-set-up/configuration/general-config.md)
-    * [📝 Crafting Config](fundamentals/getting-set-up/configuration/crafting-config.md)
-    * [📝 Cooldown Config](fundamentals/getting-set-up/configuration/cooldown-config.md)
-    * [📝 Active Gems Config](fundamentals/getting-set-up/configuration/active-gems-config.md)
-  * [📝 Permissions](fundamentals/getting-set-up/permissions.md)
+    * [📝 Advanced Configs](fundamentals/getting-set-up/configuration/advanced-configs.md)
 
 ***
 

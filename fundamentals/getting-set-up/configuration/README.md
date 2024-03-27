@@ -6,14 +6,6 @@
 [general-config.md](general-config.md)
 {% endcontent-ref %}
 
-{% content-ref url="crafting-config.md" %}
-[crafting-config.md](crafting-config.md)
-{% endcontent-ref %}
-
-{% content-ref url="cooldown-config.md" %}
-[cooldown-config.md](cooldown-config.md)
-{% endcontent-ref %}
-
-{% content-ref url="active-gems-config.md" %}
-[active-gems-config.md](active-gems-config.md)
+{% content-ref url="advanced-configs.md" %}
+[advanced-configs.md](advanced-configs.md)
 {% endcontent-ref %}
