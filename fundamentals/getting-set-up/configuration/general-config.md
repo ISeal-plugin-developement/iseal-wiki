@@ -16,11 +16,11 @@ _<mark style="color:yellow;">Note: it is not the folder containing other config 
 
 ### Allow only one Gem (`allowOnlyOneGem`):
 
-If set to true, only allow one Gem per person
+If set to true, only allow one gem per person
 
 ### Can drop gems (`canDropGems`):
 
-If set to true, it doesn't allow people to drop gems.
+If set to true, gems cannot be dropped by players.
 
 ### Give a gem on the first logon (`giveGemOnFirstLogin`):
 
@@ -28,39 +28,39 @@ If set to false, gems will not be given to players when they first log in.
 
 ### Allow gem upgrading (`canUpgradeGems`):
 
-If set to false, it will stop gems from upgrading.
+If set to false, gems will not be able to be upgraded.
 
 ### Allow gem crafting (`canCraftGems`):
 
-If set to false, it will stop new gems from being crafted.
+If set to false, new gems cannot be crafted.
 
-### Keep Gem on death (`keepGemsOnDeath`):
+### Keep gems on death (`keepGemsOnDeath`):
 
-If set to false, gems will drop.
+If set to false, gems will drop on player death.
 
 ### Gives gems descriptions (`gemsHaveDescriptions`):
 
-If set to true, it will give gems the description shown on the plugin page.
+If set to true, it will give new gems the description shown on the plugin page.
 
 ### Allow fire gem to destroy blocks (`explosionDamageAllowed`):
 
-If set to false, fire gem ability that spawns fireballs will not destroy blocks.
+If set to false, destructive abilities will be less destructivg.
 
-### Stops reflect fire gem's fireball, etc. (`preventGemPowerTampering`):
+### Prevent gem power tampering. (`preventGemPowerTampering`):
 
-If set to true, it will not allow deflection of the fire gem's fireball or similar.
+If set to true, gem abilities which can be interacted with (ex. a fireball) will not be able to be interacted with (ex. deflecting a fireball).
 
-### Do Gem Decay (`doGemDecay`):
+### Do gem decay (`doGemDecay`):
 
 If set to true, gems will "decay" when the player dies (subtract 1 level), and they will stop decaying at level 1 unless `doDecayOnLevel1` is set to true
 
 ### Gem Decay on level 1 (`doDecayOnLevel1`):
 
-If set to true, while `doGemDecay` is set to true, gems will not stop decaying at level 1; if it goes below level 1, the Gem will "decay" so much, destroying it&#x20;
+If set to true, while `doGemDecay` is set to true, gems will not stop decaying at level 1; if gems decay at level 1, they will get destroyed.&#x20;
 
 ### Dragon Egg Halves cooldown (`dragonEggHalfCooldown`):
 
-As mentioned on the page [the-gems-and-their-ablitys](../../../overview/the-gems-and-their-ablitys/ "mention"), when the player has a dragon egg in their inventory, it halves their gem ability cooldown. If this is set to false, then the dragon egg will no **longer** halve the cooldown.
+As mentioned on the page [the-gems-and-their-ablities](../../../overview/the-gems-and-their-ablities/ "mention"), when the player has a dragon egg in their inventory, it halves their gem ability cooldown. If this is set to false, then the dragon egg will no **longer** halve the cooldown.
 
 ### Randomized Colors (`randomizedColors`):
 
@@ -68,20 +68,20 @@ If set to true, the plugin will be much more _<mark style="color:blue;">C</mark>
 
 ### Cooldown Boost Per Level (`cooldownBoostPerLevelInSeconds`):
 
-The cooldown time is to remove it in seconds per Gem level.
+The time to remove from each ability's cooldown per level.
 
 ### Delay to use gems (`delayToUseGemsOnJoin`):
 
-There is a delay in seconds when you can not use the gems when you join the server.
+Delay in seconds to wait to use gems when a player logs in.
 
 ### Gem Creation Attempts (`gemCreationAttempts`):
 
-The number of attempts the plugins will make to avoid doubles before giving up.
+The number of attempts the plugins will make to avoid doubles before giving up, lower this if you are having lag on gem creation.
 
 ### Blocked Lava Blocks (`blockedLavaBlocks`):
 
 {% hint style="danger" %}
-This config is currently utterly useless as the ability for the lava gem that affects this config is completely disabled in the plugin itself ( meaning there is no way to enable it )
+This config is currently useless as the ability for the lava gem that affects this config is completely disabled in the plugin itself ( meaning there is no way to enable it )
 {% endhint %}
 
 The blocks which the lava wall ability may not overwrite.

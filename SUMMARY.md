@@ -4,8 +4,8 @@
 
 ## Overview
 
-* [✨ The Gems and Their ablitys](overview/the-gems-and-their-ablitys/README.md)
-  * [Crafting](overview/the-gems-and-their-ablitys/crafting.md)
+* [✨ The Gems and Their ablities](overview/the-gems-and-their-ablities/README.md)
+  * [Crafting](overview/the-gems-and-their-ablities/crafting.md)
 
 ## Fundamentals
 

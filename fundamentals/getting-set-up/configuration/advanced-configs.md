@@ -16,20 +16,20 @@ _<mark style="color:yellow;">Note: it is the folder</mark>_&#x20;
 
 ## crafting.yml
 
+{% hint style="warning" %}
+For expert users only.
+{% endhint %}
+
 For the recipes: the shape is how it is built, one letter per material and has to be the same, intruded by "," and the ingredients are the materials, first the letter, then the material as it is described in [https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html](https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html)
 
 ### cooldown.yml
 
 {% hint style="info" %}
-Not suggested to be changed
+Suggested to be changed
 {% endhint %}
 
 Set the cooldown (in seconds) in this config file (default 60) for gems at level one; the timer will reduce based on `cooldownBoostPerLevelInSeconds` what's set in the config.yml.
 
 ### gem\_active.yml
 
-{% hint style="info" %}
-Not suggested to be changed
-{% endhint %}
-
-Set which gem would be disabled (unusable).
+Used to disable some gems.

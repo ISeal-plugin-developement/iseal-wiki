@@ -3,7 +3,7 @@
 
 
 {% hint style="info" %}
-Before doing all this, Please make sure that your server supports plugins; we suggest using [PaperMC](https://papermc.io/downloads/paper) (Not sponsored)
+Before doing all this, Please make sure that your server supports plugins; we suggest using [PaperMC](https://papermc.io/downloads/paper)
 {% endhint %}
 
 <details>
@@ -18,7 +18,7 @@ Official Download For PowerGems: [https://www.spigotmc.org/resources/108943/](ht
 
 <summary>Step 2: Installing it on your server</summary>
 
-_Free hosts that we would suggest are Minehut or Minefort (Not sponsored); Aternos doesn't think it's popular enough, although this is our suggestion, you can use any host you would like :)_
+_Free hosts that we would suggest are Minehut or Minefort ; Aternos doesn't think it's popular enough, although this is our suggestion, you can use any host you would like_&#x20;
 
 Open your server's panel, head to the file manager, and then head to `~/plugins/` Then upload the plugin into there, and then **RESTART** your server.
 

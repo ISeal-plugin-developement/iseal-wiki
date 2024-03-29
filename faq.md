@@ -2,7 +2,7 @@
 
 ## 1. Q: How do I access the config files?
 
-#### A: Open your server's file manager and head to `~/plugins/*plugin name*/` and open the config.yml file. There are more advanced configurations in the `~/plugins/*plugin name*/config/` folder.
+#### A: Open your server's file manager and head to `~/plugins/PowerGems/` and open the config.yml file. There are more advanced configurations in the `~/plugins/PowerGems/config/` folder.
 
 ## 2. Q: What is the format for Bug reports, and where can I find them?
 

@@ -6,7 +6,7 @@
 
 ## Overview
 
-PowerGem is a small plugin created by ISeal. When players first join the game, they are given a random gem, each with a different power!
+PowerGems is a small plugin created by ISeal. When players first join the game, they are given a random gem, each with a different power!
 
 
 
@@ -16,8 +16,8 @@ PowerGem is a small plugin created by ISeal. When players first join the game, t
 
 ## Quick links
 
-{% content-ref url="overview/the-gems-and-their-ablitys/" %}
-[the-gems-and-their-ablitys](overview/the-gems-and-their-ablitys/)
+{% content-ref url="overview/the-gems-and-their-ablities/" %}
+[the-gems-and-their-ablities](overview/the-gems-and-their-ablities/)
 {% endcontent-ref %}
 
 ## Get Started
@@ -26,10 +26,6 @@ We've put together some helpful guides for you to get setup with our product qui
 
 {% content-ref url="fundamentals/getting-set-up/" %}
 [getting-set-up](fundamentals/getting-set-up/)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="fundamentals/getting-set-up/configuration/" %}

@@ -1,4 +1,4 @@
-# ✨ The Gems and Their ablitys
+# ✨ The Gems and Their ablities
 
 ## **Strength Gem:**&#x20;
 
@@ -43,7 +43,7 @@ Creates a rope of wind between the player and a target player, pulling the targe
 Creates a cloud of smoke, granting temporary invisibility and propelling the player forward.&#x20;
 
 {% hint style="info" %}
-If you wonder if it works with Elytra while in the air, the answer is yes.
+This works with the elytra.
 {% endhint %}
 
 #### Left-click:
@@ -99,7 +99,7 @@ This action emits a thunder sound effect and applies a glowing potion effect to 
 Launches the player forward in the direction rail.
 
 {% hint style="info" %}
-If you wonder if it works with Elytra like the air gem, the answer is yes.
+This works with the elytra.
 {% endhint %}
 
 
