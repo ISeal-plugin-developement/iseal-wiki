@@ -10,7 +10,7 @@ Open your server's file manager and then go to:
 
 Open the file using a text editor
 
-_<mark style="color:yellow;">Note: it is not the folder containing other config files</mark>_
+_<mark style="color:yellow;">Note: it is not the /config/ folder, that contains other config files</mark>_
 
 </details>
 
@@ -56,7 +56,7 @@ If set to true, gems will "decay" when the player dies (subtract 1 level), and t
 
 ### Gem Decay on level 1 (`doDecayOnLevel1`):
 
-If set to true, while `doGemDecay` is set to true, gems will not stop decaying at level 1; if gems decay at level 1, they will get destroyed.&#x20;
+If set to true, while `doGemDecay` is set to true, gems will not stop decaying at level 1; if gems decay at level 1, they will get destroyed.
 
 ### Dragon Egg Halves cooldown (`dragonEggHalfCooldown`):
 
@@ -80,8 +80,12 @@ The number of attempts the plugins will make to avoid doubles before giving up, 
 
 ### Blocked Lava Blocks (`blockedLavaBlocks`):
 
+The blocks which the lava wall ability may not overwrite, useless as of latest versions, as lava only overwrites air.
+
+### Allow Moving Gems (`allowMovingGems`):
+
 {% hint style="danger" %}
-This config is currently useless as the ability for the lava gem that affects this config is completely disabled in the plugin itself ( meaning there is no way to enable it )
+Currently not implemented. Raccomended to keep to false.
 {% endhint %}
 
-The blocks which the lava wall ability may not overwrite.
+Allow moving gems between containers (chests, etc.)
