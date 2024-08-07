@@ -1,46 +1,42 @@
 # ✨ The Gems and Their ablities
 
-## **Strength Gem:**&#x20;
+## **Strength Gem:**
 
 #### Right-click:
 
-&#x20;Saturation, Strenght and Resistance (all level 2)&#x20;
-
-#### Shift-click:&#x20;
-
-An arena that keeps anyone from entering, practical to heal&#x20;
-
-#### Left-click:&#x20;
-
-A shockwave that sends everyone near flying and damages them
-
-
-
-## Healing Gem:
-
-#### Right-click:&#x20;
-
-Parry&#x20;
-
-#### Shift-click:&#x20;
-
-Instant heal&#x20;
-
-#### Left-click:&#x20;
-
-1 minute of regeneration 2
-
-
-
-## Air Gem:&#x20;
-
-#### Right-click:&#x20;
-
-Creates a rope of wind between the player and a target player, pulling the target closer.&#x20;
+Saturation, Strenght and Resistance (all level 2)
 
 #### Shift-click:
 
-Creates a cloud of smoke, granting temporary invisibility and propelling the player forward.&#x20;
+An arena that keeps anyone from entering, practical to heal
+
+#### Left-click:
+
+A shockwave that sends everyone near flying and damages them
+
+## Healing Gem:
+
+#### Right-click:
+
+Parry
+
+#### Shift-click:
+
+Instant heal
+
+#### Left-click:
+
+1 minute of regeneration 2
+
+## Air Gem:
+
+#### Right-click:
+
+Creates a rope of wind between the player and a target player, pulling the target closer.
+
+#### Shift-click:
+
+Creates a cloud of smoke, granting temporary invisibility and propelling the player forward.
 
 {% hint style="info" %}
 This works with the elytra.
@@ -50,51 +46,45 @@ This works with the elytra.
 
 Unleashes a burst of wind, launching nearby entities into the air and dealing damage.
 
+## Fire Gem:
 
+#### Right-click:
 
-## Fire Gem:&#x20;
-
-#### Right-click:&#x20;
-
-Creates a fiery aura around the player, granting fire resistance and igniting nearby air blocks.&#x20;
+Creates a fiery aura around the player, granting fire resistance and igniting nearby air blocks.
 
 #### Shift-click:
 
-It triggers a powerful explosion at the player's location, damaging nearby entities and causing fire damage.&#x20;
+It triggers a powerful explosion at the player's location, damaging nearby entities and causing fire damage.
 
-#### Left-click:&#x20;
+#### Left-click:
 
 Launches a fireball in the direction the player is facing, causing an explosion upon impact.
 
+## Iron Gem:
 
+#### Right-click:
 
-## Iron Gem:&#x20;
+Temporarily grants the player increased absorption and knockback resistance.
 
-#### Right-click:&#x20;
+#### Shift-click:
 
-Temporarily grants the player increased absorption and knockback resistance.&#x20;
+Temporarily increases the player's armour and armour toughness.
 
-#### Shift-click:&#x20;
-
-Temporarily increases the player's armour and armour toughness.&#x20;
-
-#### Left-click:&#x20;
+#### Left-click:
 
 Fires a barrage of spectral arrows in a circle shape.
 
+## Lightning Gem:
 
+#### Right-click:
 
-## Lightning Gem:&#x20;
+Strikes lightning at the target location and nearby entities, damaging them.
 
-#### Right-click:&#x20;
+#### Shift-click:
 
-Strikes lightning at the target location and nearby entities, damaging them.&#x20;
+This action emits a thunder sound effect and applies a glowing potion effect to nearby entities, excluding the player.
 
-#### Shift-click:&#x20;
-
-This action emits a thunder sound effect and applies a glowing potion effect to nearby entities, excluding the player.&#x20;
-
-#### Left-click:&#x20;
+#### Left-click:
 
 Launches the player forward in the direction rail.
 
@@ -102,60 +92,68 @@ Launches the player forward in the direction rail.
 This works with the elytra.
 {% endhint %}
 
+## Sand Gem:
 
+#### Right-click:
 
-## Sand Gem:&#x20;
+Weakens the target player, reducing their strength temporarily.
 
-#### Right-click:&#x20;
+#### Shift click:
 
-Weakens the target player, reducing their strength temporarily.&#x20;
+Engulfs the target player in darkness, impairing their vision and movement.
 
-#### Shift click:&#x20;
-
-Engulfs the target player in darkness, impairing their vision and movement.&#x20;
-
-#### Left click:&#x20;
+#### Left click:
 
 It creates a sand block temporarily that slows enemies passing on it.
 
+## Ice Gem:
 
+#### Right-click:
 
-## Ice Gem:&#x20;
+Throws an ice block, dealing damage to whoever gets hit
 
-#### Right-click:&#x20;
+#### Shift-click:
 
-Throws an ice block, dealing damage to whoever gets hit&#x20;
+Spawns snow golems to fight for you
 
-#### Shift-click:&#x20;
-
-Spawns snow golems to fight for you&#x20;
-
-#### Left-click:&#x20;
+#### Left-click:
 
 Freezes the player you aim, giving them slowness
 
+## Lava Gem:
 
+#### Right-click:
 
-## Lava Gem:&#x20;
+Make a ring of lava
 
-#### Right-click:&#x20;
+#### Shift-click:
 
-Make a ring of lava&#x20;
+Spawn a blaze to fight for you
 
-#### Shift-click:&#x20;
-
-Spawn a blaze to fight for you&#x20;
-
-#### Left-click:&#x20;
+#### Left-click:
 
 1 minute of Fire resistance
 
+### Water gem:
 
+#### Right-click:
 
+Propel yourself forward in water, creating bubbles.
 
+#### Shift-click:
 
-## Extra effects:&#x20;
+Create a temporary water cube around you, granting Dolphin's Grace.
 
-#### Dragon Egg:&#x20;
+#### Left-click:
+
+Moisturize farmland blocks around you.
+
+#### Passive:
+
+Power up yourself with water
+
+## Extra effects:
+
+#### Dragon Egg:
 
 Halves the cooldown of gems (Has to be in inventory, can be disabled in configs by Server Owner see [configuration](../../fundamentals/getting-set-up/configuration/ "mention") on how to change it)
