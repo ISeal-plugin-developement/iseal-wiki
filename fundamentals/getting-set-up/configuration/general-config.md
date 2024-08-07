@@ -14,6 +14,10 @@ _<mark style="color:yellow;">Note: it is not the /config/ folder, that contains 
 
 </details>
 
+### Plugin prefix (`pluginPrefix`):
+
+Set the prefix that will be used in console
+
 ### Allow only one Gem (`allowOnlyOneGem`):
 
 If set to true, only allow one gem per person
@@ -78,9 +82,9 @@ Delay in seconds to wait to use gems when a player logs in.
 
 The number of attempts the plugins will make to avoid doubles before giving up, lower this if you are having lag on gem creation.
 
-### Blocked Lava Blocks (`blockedLavaBlocks`):
+### Blocked Replacing Blocks (`blockedReplacingBlocks`):
 
-The blocks which the lava wall ability may not overwrite, useless as of latest versions, as lava only overwrites air.
+The blocks which abilities may not overwrite.
 
 ### Allow Moving Gems (`allowMovingGems`):
 
@@ -89,3 +93,13 @@ Currently not implemented. Raccomended to keep to false.
 {% endhint %}
 
 Allow moving gems between containers (chests, etc.)
+
+### Allow BStats metrics (`allowBStatsMetrics`):
+
+If true, sends anonymus usage statistics to help make the plugin better.
+
+(The stats are **in no way** tracable to the server or the players)
+
+### Run updater (`runUpdater`):
+
+If true, runs the plugin updater, sending admins a message if an update is found

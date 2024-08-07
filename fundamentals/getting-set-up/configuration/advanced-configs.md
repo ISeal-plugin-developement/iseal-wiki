@@ -10,9 +10,13 @@ Open your server's file manager and then go to:
 
 Open the files using a text editor
 
-_<mark style="color:yellow;">Note: it is the folder</mark>_&#x20;
+_<mark style="color:yellow;">Note: it is the folder</mark>_
 
 </details>
+
+{% hint style="info" %}
+If the files are empty or almost empty, use each ability almost once to fill them up.
+{% endhint %}
 
 ## crafting.yml
 
