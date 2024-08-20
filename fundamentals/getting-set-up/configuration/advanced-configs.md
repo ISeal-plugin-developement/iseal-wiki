@@ -18,7 +18,7 @@ _<mark style="color:yellow;">Note: it is the folder</mark>_
 If the files are empty or almost empty, use each ability almost once to fill them up.
 {% endhint %}
 
-## crafting.yml
+## recipes.yml
 
 {% hint style="warning" %}
 For expert users only.
@@ -34,6 +34,14 @@ Suggested to be changed
 
 Set the cooldown (in seconds) in this config file (default 60) for gems at level one; the timer will reduce based on `cooldownBoostPerLevelInSeconds` what's set in the config.yml.
 
-### gem\_active.yml
+### activeGems.yml
 
 Used to disable some gems.
+
+### GemLore.yml
+
+Used to configure the gem's lore. Applies to new gems only.
+
+### gemMaterials.yml
+
+Used to edit each gem's material (use the link above for a material list)

@@ -94,7 +94,7 @@ Currently not implemented. Raccomended to keep to false.
 
 Allow moving gems between containers (chests, etc.)
 
-### Allow BStats metrics (`allowBStatsMetrics`):
+### Allow metrics (`allowMetrics`):
 
 If true, sends anonymus usage statistics to help make the plugin better.
 
@@ -103,3 +103,17 @@ If true, sends anonymus usage statistics to help make the plugin better.
 ### Run updater (`runUpdater`):
 
 If true, runs the plugin updater, sending admins a message if an update is found
+
+### Max gem level (`maxGemLevel`):
+
+Maximium gem level achievable through upgrades.
+
+### Allow cosmetic particle effects (`allowCosmeticParticleEffects`):
+
+If true, particles related to the gems they have will start appearing close to the players
+
+### Cosmetic particle effect interval (cosmeticParticleEffectInterval):
+
+Define the amount of time (in ticks) between each particle spawn.
+
+Lower this if your players have performance problems.
