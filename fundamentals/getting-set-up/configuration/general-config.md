@@ -112,7 +112,7 @@ Maximium gem level achievable through upgrades.
 
 If true, particles related to the gems they have will start appearing close to the players
 
-### Cosmetic particle effect interval (cosmeticParticleEffectInterval):
+### Cosmetic particle effect interval (`cosmeticParticleEffectInterval`):
 
 Define the amount of time (in ticks) between each particle spawn.
 
