@@ -1,45 +1,25 @@
 # ❓ Faq
 
-## 1. Q: How do I access the config files?
+### Q: Where can I find the resource pack?
 
-#### A: Open your server's file manager and head to `~/plugins/PowerGems/` and open the config.yml file. There are more advanced configurations in the `~/plugins/PowerGems/config/` folder.
+A: You can find it on our [Discord](https://discord.com/invite/NHKkMkVemt)
 
-## 2. Q: What is the format for Bug reports, and where can I find them?
+### Q: What are the default recipes?
 
-#### A: You can find it in our [discord](https://discord.gg/DKdDxc7vQw) in channel [`#bug-reports`](https://discord.com/channels/1157645386480091156/1157659553345831012) create a forum with the following format:
+A: Default recipes are shown [HERE](https://powergems.iseal.dev/overview/the-gems-and-their-ablities/crafting) on the wiki, it can and should be able to be edited, the ones on the wiki are defaults
 
-```
-General information
-Server software:
-Server version:
-Software build (if you don't know, don't add this):
-Plugins on the server:
+### Q: Is there a pack for bedrock edition?
 
-Plugin information
-Plugin:
-Plugin version:
-Errors in the console (if any, preferably use paste.md-5.net):
+A: Not officially. Someone made one on the discord, though we cannot guarantee its safety nor its quality.
 
-Bug
-Expected result:
-Actual result:
-Things tried:
+### Q: What abilities do the gems have?
 
-(P.S. Attach the config.yml file, and we will be able to help you more efficiently)
-```
+A: All of those can be found on [the wiki](https://powergems.iseal.dev/overview/the-gems-and-their-ablities). More can be added thorugh addons with an API.
 
-## 3. Q: What is the format for suggestions, and how do I create a suggestion
+### Q: How can I add gems?
 
-#### A: You can find it in our [discord](https://discord.gg/DKdDxc7vQw) in the channel [`#suggestions`](https://discord.com/channels/1157645386480091156/1157664317932584970) create a forum with the following format:
+A: You can add gems through the API, more info about that on the wiki.
 
-```
-Plugin Name:
-What to add:
-How it is currently (Optional):
-Why should it be added:
-Extra information:
-```
+### Q: Is there a best gem?
 
-## 4. Q: Where do I find the resource pack for PowerGems?
-
-#### A: You can find it in our [discord](https://discord.gg/DKdDxc7vQw) on the channel [`#powergems-update`](https://canary.discord.com/channels/1157645386480091156/1157658269318402058)
+A: On a well configured server, there shouldnt be. This plugin requires server owners to configure it at least slightly for it to be balanced.
