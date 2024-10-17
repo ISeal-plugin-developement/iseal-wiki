@@ -17,3 +17,7 @@
 ***
 
 * [❓ Faq](faq.md)
+
+## 💻 API usage
+
+* [Getting set up](api-usage/getting-set-up.md)
