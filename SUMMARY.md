@@ -16,7 +16,7 @@
 
 ***
 
-* [❓ Faq](faq.md)
+* [❓ Frequently Asked Questions](faq.md)
 
 ## 💻 API usage
 
