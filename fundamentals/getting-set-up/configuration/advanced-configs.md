@@ -15,7 +15,7 @@ _<mark style="color:yellow;">Note: it is the folder</mark>_
 </details>
 
 {% hint style="info" %}
-If the files are empty or almost empty, use each ability almost once to fill them up.
+If the files are empty or almost empty, use each ability at least once to fill them up.
 {% endhint %}
 
 ## recipes.yml
@@ -24,7 +24,7 @@ If the files are empty or almost empty, use each ability almost once to fill the
 For expert users only.
 {% endhint %}
 
-For the recipes: the shape is how it is built, one letter per material and has to be the same, intruded by "," and the ingredients are the materials, first the letter, then the material as it is described in [https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html](https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html)
+For the recipes: the shape is how it is built, one letter per material and has to be the same, intruded by "," and the ingredients are the materials, first the letter, then the material as it is described in [here](https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html)
 
 ### cooldown.yml
 
@@ -44,4 +44,4 @@ Used to configure the gem's lore. Applies to new gems only.
 
 ### gemMaterials.yml
 
-Used to edit each gem's material (use the link above for a material list)
+Used to edit each gem's material (see [here](https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html) for material list)
