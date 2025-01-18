@@ -94,11 +94,15 @@ Currently not implemented. Raccomended to keep to false.
 
 Allow moving gems between containers (chests, etc.)
 
+### Do debuff for temperature changes (`doDebuffForTemperature`):
+
+Debuff (slow down) players with elemental gems in the opposite temperature\
+ex. someone with an ice gem in the nether will get slowness
+
 ### Allow metrics (`allowMetrics`):
 
-If true, sends anonymus usage statistics to help make the plugin better.
-
-(The stats are **in no way** tracable to the server or the players)
+If true, sends anonymus usage statistics to help make the plugin better.\
+(The stats are **in no way** traceable to the server or the players)
 
 ### Run updater (`runUpdater`):
 
@@ -114,6 +118,11 @@ If true, particles related to the gems they have will start appearing close to t
 
 ### Cosmetic particle effect interval (`cosmeticParticleEffectInterval`):
 
-Define the amount of time (in ticks) between each particle spawn.
-
+Define the amount of time (in ticks) between each particle spawn.\
 Lower this if your players have performance problems.
+
+### Gem cache expire time (`gemCacheExpireTime`):
+
+Defines the amount of time until a cache expires from when it is made.\
+Higher values increase RAM usage, with lower CPU usage and lower values increase CPU usage, with less RAM usage.\
+The cache avoids recalculating the user's gem every tick.
