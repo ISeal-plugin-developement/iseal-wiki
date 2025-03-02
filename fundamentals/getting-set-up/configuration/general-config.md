@@ -80,7 +80,8 @@ Delay in seconds to wait to use gems when a player logs in.
 
 ### Gem Creation Attempts (`gemCreationAttempts`):
 
-The number of attempts the plugins will make to avoid doubles before giving up, lower this if you are having lag on gem creation.
+The number of attempts the plugin will make to generate a valid gem before giving up. Has a possible performance hit if turned too high with a lot of disabled gems.\
+Try to turn this up if people are not getting gems AND you have gems disabled AND you are getting a warning in the console asking you to do this.
 
 ### Blocked Replacing Blocks (`blockedReplacingBlocks`):
 
