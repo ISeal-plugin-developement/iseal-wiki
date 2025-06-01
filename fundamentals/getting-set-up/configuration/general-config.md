@@ -90,7 +90,7 @@ The blocks which abilities may not overwrite.
 ### Allow Moving Gems (`allowMovingGems`):
 
 {% hint style="danger" %}
-Currently not implemented. Raccomended to keep to false.
+Currently only semi-implemented (kind of broken) in beta
 {% endhint %}
 
 Allow moving gems between containers (chests, etc.)
